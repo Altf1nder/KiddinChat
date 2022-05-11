@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "935534439251",
+    "firebase_url": "https://anonchat-a21a8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "anonchat-a21a8",
+    "storage_bucket": "anonchat-a21a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935534439251:android:8038b96f02336830928fa6",
+        "android_client_info": {
+          "package_name": "com.example.kiddinchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935534439251-m0lnd2cjl22034j3snhqsuka3bgbm71p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kiddinchat",
+            "certificate_hash": "87b571520bda5b5367b049c62436d8dfc85cd524"
+          }
+        },
+        {
+          "client_id": "935534439251-hqklobj8vu8uhcc6oh8kcj7hm636n01u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZSfJB60rZ3BW-uuGkFB2E5HI70rmJt-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935534439251-hqklobj8vu8uhcc6oh8kcj7hm636n01u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
